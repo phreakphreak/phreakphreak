@@ -138,9 +138,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#phreakphreak-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Debian
+      <br>MongoDB
     </td>
     <td align="center"  width="96">
       <a href="#phreakphreak-tech">
